@@ -1,1 +1,3 @@
-# Workshop_Mobile_Minggu-10
+NIM       : E41202548
+Nama      : Bayu Firdaus
+Golongan  : D
